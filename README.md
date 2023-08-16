@@ -3,7 +3,7 @@
 
 <b>Game Desctiption:</b>
 
-Type It is 2D android game for mastering typing skills to next level. Goal is to type as fast possible words that apear on screen (represented as obstacles). When you type correct word, the ship will destroy that asteroid witch represented that word.
+Type It is 2D android game for mastering typing skills to next level. Goal is to type as fast possible words that apear on screen (represented as obstacles). When you type correct word, the ship will destroy that asteroid with represented that word.
 When you destroy all asteroids/obstacles, the new stage is comming on you with more complex words.
 
 <b>Tehnologies used in this project:</b>
