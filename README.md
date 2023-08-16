@@ -1,5 +1,5 @@
 # Type-It
-
+<b>Google Play :</b> https://play.google.com/store/apps/details?id=com.swipestudios.typeit
 
 <b>Game Desctiption:</b>
 
