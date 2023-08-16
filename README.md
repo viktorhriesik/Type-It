@@ -12,8 +12,8 @@ When you destroy all asteroids/obstacles, the new stage is comming on you with m
  - C#
  - Adobe Photoshop
 
-<b>Gameplay videos:</b>
-  - https://drive.google.com/file/d/1gIwhi2ALtkplt0k1HJiDTE-r4YUAwRuc/view?usp=sharing
+<b>Gameplay video:</b>
+  - https://drive.google.com/file/d/1K2LUJiAfZcuF2UL3y4YOzrPc9Ozqr-X7/view?usp=sharing
 
 <b>Gameplay images:</b>
   
